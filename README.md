@@ -1,0 +1,2 @@
+# coreesy
+ hyprland theme
